@@ -120,6 +120,87 @@ plugins:
   - search:
       lang: en
   - glightbox
+  - i18n:
+      docs_structure: folder
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: zh
+          name: '中文'
+          build: true
+          site_name: 高级外设
+          nav_translations:
+            Home: '首页'
+            Guides: '指南'
+            'How to: report a bug or request a feature': '如何反馈bug或提出建议'
+            'Item and Fluid Filters': '物品和流体过滤器'
+            'Cooldowns and Fuel consumption': '冷却时间和燃料消耗'
+            'Peripherals': '外设'
+            'Chat Box': '聊天方块'
+            'Energy Detector': '能量侦测器'
+            'Environment Detector': '环境监测仪'
+            'Player Detector': '玩家侦测器'
+            'Inventory Manager': '库存管理器'
+            'NBT Storage': 'NBT存储器'
+            'Block Reader': '方块读取器'
+            'Geo Scanner': '地理扫描仪'
+            'Redstone Integrator': '红石接口'
+            'AR Controller': 'AR控制器'
+            'ME Bridge': 'ME 网关'
+            'RS Bridge': 'RS 网关'
+            'Colony Integrator': '殖民地集成器'
+            'Turtles': '海龟'
+            'Chatty Turtle': '聊天海龟'
+            'Chunky Turtle': '区块海龟'
+            'Environment Turtle': '环境海龟'
+            'Player Turtle': '玩家海龟'
+            'Geoscanning Turtle': '地理扫描仪海龟'
+            'Metaphysics': 'Metaphysics'
+            'Weak Automata': 'Weak Automata'
+            'Husbandry Automata': 'Husbandry Automata'
+            'End Automata': 'End Automata'
+            'Overpowered Automata': 'Overpowered Automata'
+            'Items': ’物品
+            'AR Goggles': 'AR 眼镜'
+            'Chunk Controller': '区块控制器'
+            'Computer Tool': '电脑扳手'
+            'Memory Card': '内存卡'
+            'Pocket Computers': '便携电脑'
+            'Mod Integrations': 'Mod 集成'
+            'Minecraft': '我的世界原版'
+            'Beacon': '信标'
+            'Note Block': '音符盒'
+            'Botania': '植物魔法'
+            'Flowers': '花'
+            'Mana Pool': '魔力池'
+            'Mana Spreader': '魔力发射器'
+            'Create': '机械动力'
+            'Basin': '工作盆'
+            'Blaze Burner': '烈焰人燃烧室'
+            'Fluid Tank': '流体储罐'
+            'Mechanical Mixer': '动力搅拌器'
+            'Blocks with Scroll Behaviour': '滚动方块'
+            'Draconic Evolution': '龙之进化'
+            'Immersive Engineering': '沉浸工程'
+            'Redstone Wire Connector': '红石接线器'
+            'Redstone Probe': '红石探测接线器'
+            'Integrated Dynamics': '集成动力'
+            'Variable Store': '变量卡箱'
+            'Mekanism': '通用机械'
+            'Powah': 'Powah'
+            'Energy cell': '能量单元'
+            'Furnator': '熔炉发电机'
+            'Magmator': '岩浆发电机'
+            'Reactor': '反应堆'
+            'Solar panel': '太阳能板'
+            'Thermo generator': '热力发电机'
+            'Storage Drawers': '储物抽屉'
+            'Drawer': '抽屉'
+            'Changelogs': '修改日志'
+            'Changelog 0.7.24r': '修改日志 0.7.24r'
+            'Changelog 0.7r': '修改日志 0.7r'
 
 extra_css:
   - extra.css
