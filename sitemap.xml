@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://docs.intelligence-modding.de/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/changelogs/0.7.24r/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/changelogs/0.7.24r/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/changelogs/0.7.24r/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/changelogs/0.7r/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/changelogs/0.7r/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/changelogs/0.7r/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/guides/cooldowns_and_fuel_consumption/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/guides/cooldowns_and_fuel_consumption/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/guides/cooldowns_and_fuel_consumption/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/guides/filters/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/guides/filters/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/guides/filters/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/guides/how_to_report/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/guides/how_to_report/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/guides/how_to_report/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/botania/flowers/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/botania/flowers/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/botania/flowers/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/botania/pool/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/botania/pool/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/botania/pool/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/botania/spreader/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/botania/spreader/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/botania/spreader/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/create/basin/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/create/basin/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/create/basin/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/create/blazeburner/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/create/blazeburner/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/create/blazeburner/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/create/fluidtank/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/create/fluidtank/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/create/fluidtank/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/create/mechanicalmixer/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/create/mechanicalmixer/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/create/mechanicalmixer/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/create/scrollbehaviour/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/create/scrollbehaviour/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/create/scrollbehaviour/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/draconic_evolution/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/draconic_evolution/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/draconic_evolution/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/draconic_evolution/energy_core/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/draconic_evolution/energy_core/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/draconic_evolution/energy_core/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/draconic_evolution/reactor/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/draconic_evolution/reactor/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/draconic_evolution/reactor/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/immersive_engineering/connector/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/immersive_engineering/connector/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/immersive_engineering/connector/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/immersive_engineering/probe/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/immersive_engineering/probe/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/immersive_engineering/probe/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/integrated_dynamics/variable_store/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/integrated_dynamics/variable_store/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/integrated_dynamics/variable_store/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/mekanism/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/mekanism/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/mekanism/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/mekanism/boiler/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/mekanism/boiler/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/mekanism/boiler/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/mekanism/chemical/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/mekanism/chemical/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/mekanism/chemical/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/mekanism/digital_miner/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/mekanism/digital_miner/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/mekanism/digital_miner/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/mekanism/dynamic_tank/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/mekanism/dynamic_tank/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/mekanism/dynamic_tank/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/mekanism/fission/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/mekanism/fission/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/mekanism/fission/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/mekanism/fluid_tank/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/mekanism/fluid_tank/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/mekanism/fluid_tank/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/mekanism/fusion/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/mekanism/fusion/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/mekanism/fusion/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/mekanism/generic/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/mekanism/generic/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/mekanism/generic/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/mekanism/induction/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/mekanism/induction/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/mekanism/induction/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/mekanism/solar_evaporation/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/mekanism/solar_evaporation/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/mekanism/solar_evaporation/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/mekanism/transmitter/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/mekanism/transmitter/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/mekanism/transmitter/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/mekanism/turbine/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/mekanism/turbine/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/mekanism/turbine/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/mekanism/waste_barrel/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/mekanism/waste_barrel/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/mekanism/waste_barrel/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/minecraft/beacon/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/minecraft/beacon/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/minecraft/beacon/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/minecraft/noteblock/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/minecraft/noteblock/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/minecraft/noteblock/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/powah/ender_cell/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/powah/ender_cell/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/powah/ender_cell/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/powah/energy_cell/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/powah/energy_cell/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/powah/energy_cell/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/powah/furnator/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/powah/furnator/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/powah/furnator/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/powah/magmator/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/powah/magmator/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/powah/magmator/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/powah/reactor/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/powah/reactor/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/powah/reactor/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/powah/solar_panel/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/powah/solar_panel/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/powah/solar_panel/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/powah/thermo_generator/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/powah/thermo_generator/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/powah/thermo_generator/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/integrations/storage_drawers/drawer/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/storage_drawers/drawer/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/storage_drawers/drawer/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/items/ar_goggles/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/items/ar_goggles/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/items/ar_goggles/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/items/chunk_controller/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/items/chunk_controller/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/items/chunk_controller/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/items/computer_tool/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/items/computer_tool/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/items/computer_tool/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/items/memory_card/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/items/memory_card/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/items/memory_card/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/items/pocket_computer/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/items/pocket_computer/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/items/pocket_computer/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/peripherals/ar_controller/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/peripherals/ar_controller/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/peripherals/ar_controller/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/peripherals/block_reader/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/peripherals/block_reader/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/peripherals/block_reader/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/peripherals/chat_box/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/peripherals/chat_box/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/peripherals/chat_box/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/peripherals/colony_integrator/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/peripherals/colony_integrator/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/peripherals/colony_integrator/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/peripherals/energy_detector/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/peripherals/energy_detector/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/peripherals/energy_detector/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/peripherals/environment_detector/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/peripherals/environment_detector/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/peripherals/environment_detector/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/peripherals/geo_scanner/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/peripherals/geo_scanner/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/peripherals/geo_scanner/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/peripherals/inventory_manager/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/peripherals/inventory_manager/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/peripherals/inventory_manager/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/peripherals/me_bridge/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/peripherals/me_bridge/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/peripherals/me_bridge/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/peripherals/nbt_storage/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/peripherals/nbt_storage/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/peripherals/nbt_storage/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/peripherals/player_detector/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/peripherals/player_detector/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/peripherals/player_detector/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/peripherals/redstone_integrator/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/peripherals/redstone_integrator/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/peripherals/redstone_integrator/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/peripherals/rs_bridge/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/peripherals/rs_bridge/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/peripherals/rs_bridge/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/turtles/chatty_turtle/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/turtles/chatty_turtle/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/turtles/chatty_turtle/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/turtles/chunky_turtle/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/turtles/chunky_turtle/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/turtles/chunky_turtle/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/turtles/environment_turtle/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/turtles/environment_turtle/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/turtles/environment_turtle/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/turtles/geo_scanner_turtle/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/turtles/geo_scanner_turtle/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/turtles/geo_scanner_turtle/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/turtles/player_turtle/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/turtles/player_turtle/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/turtles/player_turtle/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/turtles/metaphysics/end_automata/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/turtles/metaphysics/end_automata/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/turtles/metaphysics/end_automata/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/turtles/metaphysics/husbandry_automata/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/turtles/metaphysics/husbandry_automata/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/turtles/metaphysics/husbandry_automata/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/turtles/metaphysics/overpowered_automata/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/turtles/metaphysics/overpowered_automata/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/turtles/metaphysics/overpowered_automata/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/turtles/metaphysics/weak_automata/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/turtles/metaphysics/weak_automata/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/turtles/metaphysics/weak_automata/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/changelogs/0.7.24r/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/changelogs/0.7.24r/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/changelogs/0.7.24r/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/changelogs/0.7r/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/changelogs/0.7r/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/changelogs/0.7r/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/guides/cooldowns_and_fuel_consumption/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/guides/cooldowns_and_fuel_consumption/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/guides/cooldowns_and_fuel_consumption/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/guides/filters/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/guides/filters/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/guides/filters/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/guides/how_to_report/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/guides/how_to_report/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/guides/how_to_report/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/botania/flowers/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/botania/flowers/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/botania/flowers/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/botania/pool/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/botania/pool/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/botania/pool/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/botania/spreader/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/botania/spreader/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/botania/spreader/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/create/basin/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/create/basin/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/create/basin/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/create/blazeburner/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/create/blazeburner/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/create/blazeburner/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/create/fluidtank/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/create/fluidtank/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/create/fluidtank/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/create/mechanicalmixer/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/create/mechanicalmixer/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/create/mechanicalmixer/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/create/scrollbehaviour/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/create/scrollbehaviour/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/create/scrollbehaviour/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/draconic_evolution/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/draconic_evolution/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/draconic_evolution/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/draconic_evolution/energy_core/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/draconic_evolution/energy_core/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/draconic_evolution/energy_core/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/draconic_evolution/reactor/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/draconic_evolution/reactor/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/draconic_evolution/reactor/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/immersive_engineering/connector/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/immersive_engineering/connector/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/immersive_engineering/connector/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/immersive_engineering/probe/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/immersive_engineering/probe/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/immersive_engineering/probe/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/integrated_dynamics/variable_store/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/integrated_dynamics/variable_store/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/integrated_dynamics/variable_store/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/mekanism/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/mekanism/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/mekanism/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/mekanism/boiler/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/mekanism/boiler/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/mekanism/boiler/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/mekanism/chemical/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/mekanism/chemical/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/mekanism/chemical/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/mekanism/digital_miner/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/mekanism/digital_miner/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/mekanism/digital_miner/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/mekanism/dynamic_tank/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/mekanism/dynamic_tank/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/mekanism/dynamic_tank/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/mekanism/fission/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/mekanism/fission/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/mekanism/fission/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/mekanism/fluid_tank/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/mekanism/fluid_tank/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/mekanism/fluid_tank/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/mekanism/fusion/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/mekanism/fusion/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/mekanism/fusion/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/mekanism/generic/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/mekanism/generic/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/mekanism/generic/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/mekanism/induction/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/mekanism/induction/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/mekanism/induction/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/mekanism/solar_evaporation/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/mekanism/solar_evaporation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/mekanism/solar_evaporation/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/mekanism/transmitter/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/mekanism/transmitter/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/mekanism/transmitter/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/mekanism/turbine/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/mekanism/turbine/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/mekanism/turbine/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/mekanism/waste_barrel/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/mekanism/waste_barrel/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/mekanism/waste_barrel/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/minecraft/beacon/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/minecraft/beacon/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/minecraft/beacon/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/minecraft/noteblock/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/minecraft/noteblock/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/minecraft/noteblock/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/powah/ender_cell/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/powah/ender_cell/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/powah/ender_cell/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/powah/energy_cell/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/powah/energy_cell/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/powah/energy_cell/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/powah/furnator/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/powah/furnator/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/powah/furnator/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/powah/magmator/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/powah/magmator/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/powah/magmator/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/powah/reactor/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/powah/reactor/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/powah/reactor/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/powah/solar_panel/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/powah/solar_panel/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/powah/solar_panel/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/powah/thermo_generator/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/powah/thermo_generator/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/powah/thermo_generator/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/integrations/storage_drawers/drawer/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/integrations/storage_drawers/drawer/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/integrations/storage_drawers/drawer/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/items/ar_goggles/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/items/ar_goggles/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/items/ar_goggles/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/items/chunk_controller/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/items/chunk_controller/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/items/chunk_controller/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/items/computer_tool/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/items/computer_tool/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/items/computer_tool/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/items/memory_card/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/items/memory_card/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/items/memory_card/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/items/pocket_computer/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/items/pocket_computer/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/items/pocket_computer/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/peripherals/ar_controller/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/peripherals/ar_controller/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/peripherals/ar_controller/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/peripherals/block_reader/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/peripherals/block_reader/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/peripherals/block_reader/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/peripherals/chat_box/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/peripherals/chat_box/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/peripherals/chat_box/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/peripherals/colony_integrator/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/peripherals/colony_integrator/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/peripherals/colony_integrator/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/peripherals/energy_detector/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/peripherals/energy_detector/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/peripherals/energy_detector/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/peripherals/environment_detector/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/peripherals/environment_detector/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/peripherals/environment_detector/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/peripherals/geo_scanner/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/peripherals/geo_scanner/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/peripherals/geo_scanner/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/peripherals/inventory_manager/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/peripherals/inventory_manager/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/peripherals/inventory_manager/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/peripherals/me_bridge/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/peripherals/me_bridge/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/peripherals/me_bridge/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/peripherals/nbt_storage/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/peripherals/nbt_storage/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/peripherals/nbt_storage/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/peripherals/player_detector/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/peripherals/player_detector/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/peripherals/player_detector/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/peripherals/redstone_integrator/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/peripherals/redstone_integrator/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/peripherals/redstone_integrator/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/peripherals/rs_bridge/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/peripherals/rs_bridge/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/peripherals/rs_bridge/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/turtles/chatty_turtle/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/turtles/chatty_turtle/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/turtles/chatty_turtle/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/turtles/chunky_turtle/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/turtles/chunky_turtle/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/turtles/chunky_turtle/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/turtles/environment_turtle/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/turtles/environment_turtle/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/turtles/environment_turtle/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/turtles/geo_scanner_turtle/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/turtles/geo_scanner_turtle/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/turtles/geo_scanner_turtle/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/turtles/player_turtle/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/turtles/player_turtle/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/turtles/player_turtle/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/turtles/metaphysics/end_automata/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/turtles/metaphysics/end_automata/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/turtles/metaphysics/end_automata/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/turtles/metaphysics/husbandry_automata/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/turtles/metaphysics/husbandry_automata/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/turtles/metaphysics/husbandry_automata/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/turtles/metaphysics/overpowered_automata/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/turtles/metaphysics/overpowered_automata/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/turtles/metaphysics/overpowered_automata/"/>
+    </url>
+    <url>
+        <loc>https://docs.intelligence-modding.de/zh/turtles/metaphysics/weak_automata/</loc>
+        <lastmod>2024-05-31</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.intelligence-modding.de/zh/turtles/metaphysics/weak_automata/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.intelligence-modding.de/turtles/metaphysics/weak_automata/"/>
+    </url>
+</urlset>
